@@ -12,12 +12,12 @@
 
 ---
 
-## 📊 Stats
+## 📊 Status
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **0** |
-| 🟡 Medium | **2** |
+| 🟢 Easy | **2** |
+| 🟡 Medium | **0** |
 | 🔴 Hard | **0** |
 | **Total** | **2** |
 
